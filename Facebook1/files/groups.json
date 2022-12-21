@@ -1,0 +1,16 @@
+{
+  "44": {
+    "groupName": "bootcamp",
+    "adminId": 1,
+    "userName": "java",
+    "groupDescriptions": "java",
+    "membersId": [
+      1,
+      0
+    ],
+    "messages": [],
+    "id": 44,
+    "isActive": true,
+    "date": "Oct 29, 2022, 9:11:55 PM"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "4": {
+    "senderId": 0,
+    "receiverId": 3,
+    "senderName": "as",
+    "massage": "salom",
+    "id": 4,
+    "isActive": true,
+    "date": "Oct 29, 2022, 6:11:06 PM"
+  },
+  "45": {
+    "senderId": 1,
+    "receiverId": 44,
+    "senderName": "sa",
+    "massage": "gruppaga hush kelibsizlar",
+    "id": 45,
+    "isActive": true,
+    "date": "Oct 29, 2022, 9:12:35 PM"
+  },
+  "50": {
+    "senderId": 0,
+    "receiverId": 44,
+    "senderName": "as",
+    "massage": "zor group ekan",
+    "id": 50,
+    "isActive": true,
+    "date": "Oct 29, 2022, 9:16:12 PM"
+  }
+}
